@@ -8,7 +8,9 @@
 
 ## Técnologias que uso:
 -Linguagens: Python, C, SQL, Arduino
+
 -Banco de Dados: MySQL, SQLite
+
 -Ferramentas: Git, GitHub, VS Code, Dev C++, Beekeeper Studio, LaTeX, Excel, Microsoft 365, AutoCAD
 
 📫 Me encontre em:  
