@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ju 👋
+## Olá! Eu sou a Ju 👋
 
 🎓 Estudante de Engenharia de Computação  
 💻 Com afinidade por Python, C, SQL e estrutura de dados  
