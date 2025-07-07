@@ -7,7 +7,7 @@
 🌱 Em constante aprendizado e desenvolvimento de projetos
 
 ## Técnologias que uso:
--Linguagens: Python, C, SQL, HTML Arduino
+-Linguagens: Python, C, SQL, HTML, Arduino
 
 -Banco de Dados: MySQL, SQLite
 
