@@ -2,8 +2,8 @@
 
 🎓 Estudante de Engenharia de Computação  
 💻 Com afinidade por Python, C, SQL e estrutura de dados  
-📊 Explorando Ciência de Dados, Análise de Dados e Inteligência Artificial
-🚀 Em busca de oportunidades de estágio ou projetos!
+📊 Explorando Ciência de Dados, Análise de Dados e Inteligência Artificial  
+🚀 Em busca de oportunidades de estágio ou projetos!  
 🌱 Em constante aprendizado e desenvolvimento de projetos
 
 ## Técnologias que uso:
