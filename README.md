@@ -9,9 +9,8 @@
 ## Técnologias que uso:
 -Linguagens: Python, C, SQL, HTML, Arduino
 
--Banco de Dados: MySQL, SQLite, PostregreSQL
-
--Ferramentas: Git, GitHub, VS Code, Dev C++, Beekeeper Studio, Excel, Microsoft 365, AutoCAD, LaTeX
+-Banco de Dados: MySQL, SQLite
+-Ferramentas: Git,, VS Code, Dev C++, Excel, Microsoft 365, AutoCAD, LaTeX
 
 📫 Me encontre em:  
 [LinkedIn](https://www.linkedin.com/in/julia-tostes-246636285/) | [Email](juliafrancictostes@gmail.com)
