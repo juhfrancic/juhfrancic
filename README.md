@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Ju, a Computer Engineering student.</h2>
+<h2 align="left">Olá 👋 Eu sou a Ju, estudante de Engenharia da Computação.</h2>
 
 ###
 
@@ -12,8 +12,16 @@
   />
 </div>
 
+<div align="left">
+
+💼 Estagiária em Desenvolvimento de Software na <strong>5by5 Soluções e Serviços</strong>  
+🎓 Estudante de Engenharia da Computação  
+<br>
+</div>
+
+
 ###
-<h3 align="center">🚀 My Skills:</h3>
+<h3 align="center">🚀 Tecnologias e Ferramentas:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -23,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo" />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="mssql logo" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="16" />
