@@ -11,6 +11,7 @@
     style="border-radius: 50%; margin-right: 10px;" 
   />
 </div>
+
 ###
 
 <div align="left">
@@ -45,7 +46,6 @@
 ###
 
 <br clear="both">
-###
 
 <div align="center">
   <img src="https://github.com/juhfrancic/juhfrancic/blob/output/github-contribution-grid-snake2.svg" />
