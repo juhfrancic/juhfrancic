@@ -2,9 +2,9 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img 
-    align="left" 
+    align="right" 
     height="150" 
     width="150"
     src="https://github.com/juhfrancic/juhfrancic/blob/main/image_1_1770915378950.jpg"
