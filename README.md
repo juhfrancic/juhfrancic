@@ -8,7 +8,7 @@
     height="220" 
     width="220"
     src="https://github.com/juhfrancic/juhfrancic/blob/main/github%20imagem.png"
-    style="border-radius: 50%; margin-right: 30px;" 
+    style="border-radius: 50%; margin-right: 100px;" 
   />
 
 
