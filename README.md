@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Ju and I'm a Computer Engineering student</h2>
+<h3 align="left">Hi👋! My name is Ju and I'm a Computer Engineering student</h3>
 
 ###
 
@@ -8,10 +8,9 @@
     height="220" 
     width="220"
     src="https://github.com/juhfrancic/juhfrancic/blob/main/github%20imagem.png"
-    style="border-radius: 50%; margin-right: 100px;" 
+    style="border-radius: 50%; margin-right: 10px;" 
   />
-
-
+</div>
 ###
 
 <div align="left">
@@ -46,3 +45,8 @@
 ###
 
 <br clear="both">
+###
+
+<div align="center">
+  <img src="https://github.com/juhfrancic/juhfrancic/blob/output/github-contribution-grid-snake2.svg" />
+</div>
