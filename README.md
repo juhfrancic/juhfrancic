@@ -5,8 +5,8 @@
 <div align="right">
   <img 
     align="right" 
-    height="190" 
-    width="190"
+    height="220" 
+    width="220"
     src="https://github.com/juhfrancic/juhfrancic/blob/main/github%20imagem.png"
     style="border-radius: 50%; margin-right: 5px;" 
   />
@@ -46,7 +46,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-[LinkedIn](https://www.linkedin.com/in/julia-tostes-246636285/) | [Email](juliafrancictostes@gmail.com)
