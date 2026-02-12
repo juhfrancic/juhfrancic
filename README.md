@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SEUUSERNAME/SEUUSERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 [LinkedIn](https://www.linkedin.com/in/julia-tostes-246636285/) | [Email](juliafrancictostes@gmail.com)
