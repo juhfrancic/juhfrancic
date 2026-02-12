@@ -48,5 +48,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/juhfrancic/juhfrancic/blob/output/github-contribution-grid-snake2.svg" />
+  <img src="https://raw.githubusercontent.com/juhfrancic/juhfrancic/output/github-contribution-grid-snake-dark.svg" />
 </div>
