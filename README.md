@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! My name is Ju and I'm a Computer Engineering student from Brazil 🇧🇷</h2>
+<h2 align="left">Hi👋! My name is Ju and I'm a Computer Engineering student</h2>
 
 ###
 
 <div align="right">
   <img 
     align="right" 
-    height="150" 
-    width="150"
+    height="190" 
+    width="190"
     src="https://github.com/juhfrancic/juhfrancic/blob/main/image_1_1770915378950.jpg"
-    style="border-radius: 50%; margin-right: 20px;" 
+    style="border-radius: 50%; margin-right: 10px;" 
   />
 
 
