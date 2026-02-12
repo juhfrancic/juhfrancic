@@ -13,7 +13,7 @@
 </div>
 
 ###
-<h3 align="left">🚀 My Skills</h3>
+<h3 align="center">🚀 My Skills:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
