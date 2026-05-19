@@ -13,8 +13,7 @@
 </div>
 
 <div align="left">
-
-💼 Estagiária em Desenvolvimento de Software na <strong>5by5 Soluções em sistemas</strong>  
+  
 🎓 Estudante de Engenharia da Computação  
 <br>
 </div>
